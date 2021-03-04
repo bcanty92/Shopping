@@ -48,6 +48,6 @@ function App() {
         /CartContext.Provider> <
         /ProductContext.Provider>
     );
-
+ }
 
 export default App;
